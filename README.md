@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Shah Nawaz, a Full Stack Developer and Machine Learning enthusiast with experience across different technologies including MERN and Laravel.<br>I enjoy transforming ideas into meaningful digital products, from CMS and LMS platforms to GIS portals, dashboards, mobile applications, and ML-powered solutions.<br>What I’m working on<br>I am currently exploring the use of Machine Learning to solve community and environmental challenges. I am also working on sustainable technology initiatives in Gilgit-Baltistan and building community-led platforms that highlight culture, tourism, and authentic experiences.<br>Tech Stack & Tools<br>Frontend: React, Vite, Tailwind, Blade<br>Backend: Laravel, Express, Node.js<br>Databases: MySQL, MongoDB<br>Machine Learning: Python, scikit-learn, TensorFlow, Pandas, NumPy<br>Other: APIs, PWAs, GIS/Maps<br>Beyond Code<br>I am deeply connected to my community in Hunza and passionate about using technology to create real-world solutions. My focus lies in sustainable mobility, cultural preservation, and AI/ML-driven insights that empower local businesses and communities.<br>You can connect with me here on GitHub or reach out for collaborations and purposeful projects.
+Hello World!
 
 
 ## 🌐 Socials:
