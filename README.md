@@ -1,22 +1,14 @@
+### Hi, I'm Shah Nawaz
 
-Hello World!
+I build AI tools, MCP servers and open data projects from Gilgit-Baltistan, Pakistan.
 
+**Projects**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/vpeMpufn) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20581895) 
+- [gb-climate-mcp](https://github.com/nawazxz/gb-climate-mcp): MCP server with 35 years of corrected weather data for Gilgit-Baltistan and a live flash-flood outlook
+- [gilgit-baltistan-era5-weather](https://github.com/nawazxz/gilgit-baltistan-era5-weather): open daily weather dataset, 1990 to 2024, corrected for the 2017 ERA5 break
+- [clientreport](https://github.com/nawazxz/clientreport): self-hosted client reports for marketing agencies, zero dependencies
+- [20-claude-skills-for-business](https://github.com/nawazxz/20-claude-skills-for-business): ready-to-use Claude skills for sales, marketing, ops and support
 
+**Elsewhere**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nawazxz&theme=merko&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=nawazxz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/shahhnnawap) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[shahnawazshah.com](https://www.shahnawazshah.com)
